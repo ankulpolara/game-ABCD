@@ -1,0 +1,27 @@
+/* write your css here */
+
+
+
+    /* .move {
+      animation: moves 1s ease-in 0 1 ;
+      transition: all;
+      }
+
+      @keyframes moves {
+        0%{
+          transform: translateX(200px);
+        
+        }
+        25%{
+          transform: translateX(100px);
+        }
+        50%{
+          transform: translateX(0px);
+        }
+        75%{
+          transform: translateX(100px);
+        }
+        100%{
+          transform: translateX(200px);
+        }
+      } */
